@@ -4,19 +4,20 @@ This repository will contain your course project. You should keep the repository
 
  
 
-## Report
+## Checkpoint Report
 
 In addition to the code you will write, you should prepare a preliminary report.  This can either be a PDF or a file which can be viewed in a web browser.  Put your report in the `doc/checkpoint` folder in the repository, which should contain any files and figures, as well as instructions to generate the PDF or html files (if they are generated from LaTeX, Markdown, etc.)
 
-Your report should have 4 sections.
+Your report should have 5 sections.
 1. A brief introduction to the project, and notation you will use. Cite any other resources that contribute to your discussion.
 2. A brief description of how you are structuring the Python package `src`.
-3. Report on your preliminary investigations.
-4. Your proposed variations/improvements for the final project.
+3. A description of what tests you have done to verify your implementation.
+4. Report on your preliminary investigations.
+5. Your proposed variations/improvements for the final project.
 
-Sections 1 should not be very long.  Section 2 should be very brief (about 1 paragraph). Section 3 should include several figures.
+Sections 1 should not be very long.  Section 2 should be very brief (about 1 paragraph). Section 4 should include several figures.
 
-Section 4 should include 1 proposed variation for each member of the group (e.g. a group of 3 should propose 3 variations).  See the [README](README.md) for some examples.  You should have subsections for each proposed variation which include the following information:
+Section 5 should include 1 proposed variation for each member of the group (e.g. a group of 3 should propose 3 variations).  You should have subsections for each proposed variation which include the following information:
 1. What questions you want to answer in the final report, and how you would try to answer these questions using simulations.
 2. Any changes to the model in the variation
 3. If you are using data, where you will obtain the data
