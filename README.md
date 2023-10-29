@@ -8,24 +8,23 @@ This repository will contain your course project. You should keep the repository
 
 In addition to the code you will write, you should prepare a preliminary report.  This can either be a PDF or a file which can be viewed in a web browser.  Put your report in the `doc/checkpoint` folder in the repository, which should contain any files and figures, as well as instructions to generate the PDF or html files (if they are generated from LaTeX, Markdown, etc.)
 
-Your report should have 5 sections.
-1. A brief introduction to the project, and notation you will use. Cite any other resources that contribute to your discussion.
-2. A brief description of how you are structuring the Python package `src`.
-3. A description of what tests you have done to verify your implementation.
-4. Report on your preliminary investigations.
-5. Your proposed variations/improvements for the final project.
+Your report should have 6 sections.
+1. A brief introduction to the project. Cite any other resources that contribute to your discussion.
+2. An introduction to the numerical methods or packages that you will use in your project, and notation you will use. Cite any other resources that contribute to your discussion.
+3. A brief description of how you are structuring the Python package `src`.
+4. A description of what tests you have done to verify your implementation.
+5. Report on your preliminary investigations.
+6. Your proposed variations/improvements for the final project.
 
-Sections 1 should not be very long.  Section 2 should be very brief (about 1 paragraph). Section 4 should include several figures.
+Section 1 should not be very long. Efforts should be made to keep section 2 concise, but its length will depend on your project. Section 3 should be very brief (about 1 paragraph). Section 5 should include several figures.
 
-Section 5 should include 1 proposed variation for each member of the group (e.g. a group of 3 should propose 3 variations).  You should have subsections for each proposed variation which include the following information:
+Section 6 should include 1 proposed variation for each member of the group (e.g. a group of 3 should propose 3 variations).  You should have subsections for each proposed variation which include the following information:
 1. What questions you want to answer in the final report, and how you would try to answer these questions using simulations.
-2. Any changes to the model in the variation
+2. Any changes to the code in the variation
 3. If you are using data, where you will obtain the data
 4. If your variation uses a model or idea from a paper or website, include any references
 
-Your report should have a list of references - likely some for your background on the problem, and some for your proposed variations.
-
-If you have specific questions for the course staff, please also list them for each model.
+Your report should have a list of references - likely some for your background on the topic and some on the method that you will use.
 
 ## Evaluation
 
