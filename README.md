@@ -9,7 +9,7 @@ In addition to the code you will write, you should prepare a preliminary report.
 
 Your report should have the following sections.
 1. A brief introduction to the topic of your project. Cite any resources that contribute to your discussion.
-2. An introduction to the numerical methods or packages that you will use in your project, and notation you will use. Cite any resources that contribute to your discussion.
+2. An introduction to the numerical methods or packages that you will use in your project, and notation you will use. Please be sure to clearly explain what it is that you are computing and cite any resources that contribute to your discussion.
 3. A brief description of how you are structuring the Python package `src`.
 4. A description of what tests are in `test`.
 5. Report on your preliminary investigations into the effectiveness of your method.
@@ -30,6 +30,8 @@ Your report should have a list of references - likely some for your background o
 90% of the checkpoint grade will be shared by members of your teams.  This will consist of:
 * 40% code (quality, correctness, etc.)
 * 50% preliminary report
+
+The report portion of the project will be partly evaluated based on the clarity of your writing, so please ensure that your report is clear and cohesive.
 
 10% of the checkpoint grade will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.  If you do not participate at all, we reserve the right to remove you from the team.
 
