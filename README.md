@@ -5,7 +5,7 @@ This repository will contain your course project. You should keep the repository
  
 ## Checkpoint Report
 
-In addition to the code you will write, you should prepare a preliminary report.  This can either be a PDF or a file which can be viewed in a web browser.  Put your report in the `doc/checkpoint` folder in the repository, which should contain any files and figures, as well as instructions to generate the PDF or html files (if they are generated from LaTeX, Markdown, etc.)
+In addition to the code you will write, you should prepare a preliminary report. Put your report in the `doc/checkpoint` folder in the repository and uploaded it to Canvas.
 
 Your report should have the following sections.
 1. A brief introduction to the topic of your project. Cite any resources that contribute to your discussion.
