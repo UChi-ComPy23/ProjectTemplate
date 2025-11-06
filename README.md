@@ -8,7 +8,7 @@ This repository will contain your course project. You should keep the repository
 In addition to the code you will write, you should prepare a preliminary report. Put your report in the `doc/checkpoint` folder in the repository and uploaded it to Canvas.
 
 Your report should have the following sections.
-1. A brief introduction to the topic of your project. Cite any resources that contribute to your discussion.  Please give a complete description of any models that you are simulating or using.
+1. A brief introduction to the topic of your project. Cite any resources that contribute to your discussion.  Please also give a complete description of any models that you are simulating or using.
 2. An introduction to the numerical methods or packages that you will use in your project, and notation you will use. Please be sure to clearly explain what it is that you are computing and cite any resources that contribute to your discussion.
 3. A brief description of how you are structuring the Python package `src`.
 4. A description of what tests are in `test`.
