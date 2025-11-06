@@ -8,14 +8,14 @@ This repository will contain your course project. You should keep the repository
 In addition to the code you will write, you should prepare a preliminary report. Put your report in the `doc/checkpoint` folder in the repository and uploaded it to Canvas.
 
 Your report should have the following sections.
-1. A brief introduction to the topic of your project. Cite any resources that contribute to your discussion.
+1. A brief introduction to the topic of your project. Cite any resources that contribute to your discussion.  Please give a complete description of any models that you are simulating or using.
 2. An introduction to the numerical methods or packages that you will use in your project, and notation you will use. Please be sure to clearly explain what it is that you are computing and cite any resources that contribute to your discussion.
 3. A brief description of how you are structuring the Python package `src`.
 4. A description of what tests are in `test`.
 5. Report on your preliminary investigations into the effectiveness of your method.
 6. Your proposed variations/improvements for the final project.
 
-Section 1 should not be very long. Efforts should be made to keep section 2 concise, but its length will depend on your project. Section 3 should be very brief (about 1 paragraph). Section 4 does not need to be very detailed, and you don't need to tell us about successful tests. Section 5 should include several figures.
+Section 1 should not be very long. Efforts should be made to keep section 2 concise, but its length will depend on your project. Section 3 should be very brief (about 1 paragraph). Section 4 does not need to be very detailed, and you don't need to tell us about successful tests, but you do need to thoroughly test every function you implement. Section 5 should include several figures.
 
 Section 6 should include your proposed variation(s) and extension(s) for the project.  You should have subsections for each proposed variation which include the following information:
 1. What questions you want to answer in the final report, and how you would try to answer these questions using simulations.
